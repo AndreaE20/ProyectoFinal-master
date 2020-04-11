@@ -1,0 +1,10 @@
+﻿  IngresodeDatos.cpp
+  ingresoPrincipal.cpp
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\ingresoPrincipal.cpp(11,10): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\ingresoPrincipal.cpp(11,31): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\ingresoPrincipal.cpp(11,31): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+  menuPrincipal.cpp
+  visualizacion.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generando código...

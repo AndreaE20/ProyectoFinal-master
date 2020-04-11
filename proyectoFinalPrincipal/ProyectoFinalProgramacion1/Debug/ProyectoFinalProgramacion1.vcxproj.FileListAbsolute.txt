@@ -1,0 +1,6 @@
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.vcxprojAssemblyReference.cache
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.IngresodeDatos.resources
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.ingresoPrincipal.resources
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.menuPrincipal.resources
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.visualizacion.resources
+C:\Users\river\Desktop\ProyectoFinal-master\proyectoFinalPrincipal\ProyectoFinalProgramacion1\Debug\ProyectoFinalProgramacion1.vcxproj.GenerateResource.cache
